@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="testpyhon",
+    name="Testpython",
     version="1.0.0",
     author="Alexandre Mai",
     author_email="alexandre.mai@gmail.com",

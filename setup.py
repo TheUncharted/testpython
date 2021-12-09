@@ -15,9 +15,4 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=requires,
-    package_data={
-        # If any package contains *.txt or *.rst files, include them:
-        "": ["*model.xlsx", "../requirements.txt", "../README.md"],
-    },
 )
